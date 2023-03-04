@@ -1,0 +1,37 @@
+/*fonts
+
+font-family: 'Roboto Condensed', sans-serif;
+
+*/
+
+
+
+
+
+
+/*!============================================================================
+                            HEADER
+==============================================================================*/
+
+.img_logo img{
+    height: 30px;
+    width: auto;
+}
+
+nav,
+.header_top{
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+nav{
+        background-color: black !important;
+}
+
+.navbar-nav a{
+    color: white;
+}
+
+.navbar-toggler{
+    background-color: white !important;
+}
